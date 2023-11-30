@@ -1,0 +1,13 @@
+body {
+
+}
+table, td ,th {
+    border: 1px solid gray;
+    color: rgb(90, 13, 13);
+    margin: auto;
+    border-collapse: collapse;
+}
+h1 {
+    text-align: center;
+    color: rgb(90, 13, 13)
+}
